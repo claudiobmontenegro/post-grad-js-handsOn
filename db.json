@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "nome": "TesteSuccess",
+      "matricula": "Testado",
+      "curso": "Redes",
+      "id": 1
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "Obrigatoria",
+      "cargaHoraria": "Carga",
+      "professor": "Prof",
+      "status": "Obrigatória",
+      "observacos": "Observ",
+      "id": 4
+    },
+    {
+      "nome": "NovoProfEdit",
+      "cargaHoraria": "NovaObsEdit",
+      "professor": "ProfEdit",
+      "status": "Opcional",
+      "observacos": "ObsEdit",
+      "id": 5
+    }
+  ]
+}
